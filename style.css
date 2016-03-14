@@ -1,0 +1,24 @@
+h1{
+    color:red;
+    font-size: 100px;
+    border-bottom-style: solid;
+    border-color: black;
+}
+body{
+    background-color:lightblue;
+    font-size:45px;
+    font-family:Comic Sans MS ;
+    background-image: url("http://images6.fanpop.com/image/photos/34600000/Deep-Blue-Sea-blue-34681131-1610-1204.jpg");
+    text-align:center;
+    background-size:center;
+
+}
+li{
+display:inline;
+padding: 0px 10px 0px 15px;
+list-style:none;
+}
+
+li a:hover {
+    color: purple;
+}
